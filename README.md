@@ -3,13 +3,13 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Saksham</h1>
-<h3 align="center">A CSE student who loves Web Dev & DSA</h3>
+<h3 align="center">A Machine Learning & Deep Learning Student making websites with JS</h3>
 
 ---
 
 ### 🚀 About Me
 
-- 🌱 I’m currently learning **Web Dev, DSA, ML**
+- 🌱 I’m currently learning **DSA, ML**
 - 🎯 Goal: Become a **top-notch developer** and crack **GSoC / good internships**
 - ⚡ Fun fact: I break code more than I fix it (but I learn 😄)
 
@@ -17,8 +17,10 @@
 
 ### 🛠 Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,java,js,html,css,react,nodejs,mongodb,git,linux" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=anaconda,aws,azure,bootstrap,c,cpp,css,discord,django,docker,express,fastapi,firebase,flask,gcp,github,go,html,js,kafka,kubernetes,mongodb,nextjs,nodejs,opencv,postgres,postman,py,pytorch,react,redux,supabase,tailwind,tensorflow,threejs,ts,vscode,vite,vue" />
+  </a>
 </p>
 
 ---
