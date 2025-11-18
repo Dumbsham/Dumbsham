@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_GIF_LINK_HERE" width="300" />
+  <img src="[YOUR_GIF_LINK_HERE](https://media.tenor.com/PZt9Snxgh6cAAAAM/batman.gif)" width="300" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Saksham</h1>
