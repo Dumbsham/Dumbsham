@@ -27,13 +27,13 @@
 
 ### 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dumbsham&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dumbsham&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Dumbsham)
 
 ---
 
 ### 💬 Connect with me
 
-- 📫 How to reach me: **yourmail@example.com**
-- 💼 LinkedIn: [Your Name](https://www.linkedin.com/in/your-profile)
+- 📫 How to reach me: **sakshamnoida37@gmail.com**
+- 💼 LinkedIn: [Saksham Sharma](https://www.linkedin.com/in/saksham14sharma/)
