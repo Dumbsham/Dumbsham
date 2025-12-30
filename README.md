@@ -19,7 +19,8 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,aws,azure,bootstrap,c,cpp,css,discord,django,docker,express,fastapi,firebase,flask,gcp,github,go,html,js,kafka,kubernetes,mongodb,nextjs,nodejs,opencv,postgres,postman,py,pytorch,react,redux,supabase,tailwind,tensorflow,threejs,ts,vscode,vite,vue" />
+   <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,react,nodejs,express,mongodb,python,pytorch,tensorflow,git,github,vscode" />
+
   </a>
 </p>
 
