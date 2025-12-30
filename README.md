@@ -28,10 +28,14 @@
 
 ### 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dumbsham&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dumbsham&layout=compact)
-![GitHub Streak](https://streak-stats.demolab.com/?user=Dumbsham)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dumbsham&show_icons=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dumbsham&layout=compact" height="170"/>
+</p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Dumbsham" />
+</p>
 ---
 
 ### 💬 Connect with me
