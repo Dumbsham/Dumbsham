@@ -29,13 +29,22 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dumbsham&show_icons=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dumbsham&layout=compact" height="170"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Dumbsham&show_icons=true&theme=github_dark&cache_seconds=1800"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dumbsham&layout=compact&theme=github_dark&cache_seconds=1800"
+    height="170"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Dumbsham" />
+  <img
+    src="https://streak-stats.demolab.com/?user=Dumbsham&theme=github-dark&cache_seconds=1800"
+  />
 </p>
+
 ---
 
 ### 💬 Connect with me
