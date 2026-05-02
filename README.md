@@ -11,7 +11,7 @@
 <p>
   <img src="https://img.shields.io/badge/Focus-AI%20%26%20Social%20Impact-C8F53D?style=flat-square&labelColor=0A0A0A&color=C8F53D"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Location-Dādri%2C%20UP%2C%20India-C8F53D?style=flat-square&labelColor=0A0A0A&color=C8F53D"/>
+  <img src="https://img.shields.io/badge/Location-Noida%2C%20UP%2C%20India-C8F53D?style=flat-square&labelColor=0A0A0A&color=C8F53D"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=flat-square&labelColor=0A0A0A&color=22c55e"/>
 </p>
