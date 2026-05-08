@@ -3,7 +3,7 @@
 <!-- ANIMATED NEON HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C8F53D,50:22c55e,100:0A0A0A&height=200&section=header&text=&animation=fadeIn&fontAlignY=35" width="100%"/>
 <!-- TYPING INTRO -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=42&pause=1000&color=C8F53D&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Saksham+%F0%9F%91%8B;AI+Builder+%7C+Full-Stack+Dev;Building+tech+that+matters+%E2%9C%A8;Voice-first+AI+%F0%9F%8E%99%EF%B8%8F+%7C+Social+Impact+%F0%9F%AA%94" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=42&pause=1000&color=C8F53D&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Saksham+%F0%9F%91%8B;AI+Builder+%7C+Full-Stack+Dev;Build+what+matters+%E2%9C%A8;Not+what+looks+cool+%F0%9F%8E%99%EF%B8%8F+%7C+Programmable+Impact+%F0%9F%AA%94" alt="Typing SVG" />
 <br/>
 <!-- BADGES ROW -->
 <p>
