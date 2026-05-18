@@ -10,22 +10,6 @@ Currently based in Noida, UP, India · Open to work
  
 ---
  
-## What I'm Building
- 
-**🪔 Saksham AI Platform**
-Voice-first, multilingual AI platform helping underutilized women in India discover skills and income opportunities through personalized guidance.
-`TypeScript` `Python` `AI Agents` `NLP`
- 
-**🤖 AI Agents**
-Research Agent & DSA Tutor Agent — automating deep research and interactive DSA learning workflows.
-`Python` `LLM Orchestration` `TypeScript`
- 
-**📊 Predictive ML Models**
-End-to-end models across healthcare, finance, and automotive datasets.
-`scikit-learn` `Pandas` `Jupyter` `Python`
- 
----
- 
 ## Tech Stack
  
 **Languages** — TypeScript · JavaScript · Python
