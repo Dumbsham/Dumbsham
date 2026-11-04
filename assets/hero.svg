@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Saksham Sharma — applied AI, full-stack, human impact</title>
+  <desc id="desc">Dark editorial banner with a glowing AI network illustration.</desc>
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#7cf4d2"/>
+      <stop offset="0.52" stop-color="#7db8ff"/>
+      <stop offset="1" stop-color="#b897ff"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#405b94" stop-opacity=".34"/>
+      <stop offset="1" stop-color="#405b94" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#adbbd5" stroke-opacity=".07"/>
+    </pattern>
+    <clipPath id="frame"><rect width="1200" height="360" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="360" fill="#0b1020"/>
+    <rect width="1200" height="360" fill="url(#grid)"/>
+    <circle cx="1000" cy="180" r="335" fill="url(#glow)"/>
+    <path d="M0 0h1200v360H0z" fill="none" stroke="#a9b8d2" stroke-opacity=".2" stroke-width="2"/>
+
+    <circle cx="61" cy="48" r="5" fill="#7cf4d2"/>
+    <text x="80" y="54" fill="#a7b7d3" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="3">SS / BUILDING WHAT MATTERS</text>
+    <path d="M58 77h630" stroke="#9aaccb" stroke-opacity=".24"/>
+
+    <text x="54" y="160" fill="#f4f7ff" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="800" letter-spacing="-4">SAKSHAM</text>
+    <text x="54" y="238" fill="url(#accent)" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="800" letter-spacing="-4">SHARMA</text>
+    <text x="58" y="283" fill="#dce6fb" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="500">AI ideas, built into things people can use.</text>
+
+    <path d="M58 319h580" stroke="#9aaccb" stroke-opacity=".24"/>
+    <text x="58" y="342" fill="#93a8ca" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="2.4">APPLIED AI  /  FULL STACK  /  HUMAN IMPACT</text>
+
+    <circle cx="981" cy="181" r="126" fill="none" stroke="#aabce0" stroke-opacity=".2" stroke-width="2" stroke-dasharray="4 9"/>
+    <circle cx="981" cy="181" r="91" fill="none" stroke="#7db8ff" stroke-opacity=".35" stroke-width="2"/>
+    <circle cx="981" cy="181" r="55" fill="#152441" stroke="url(#accent)" stroke-width="2"/>
+    <path d="M981 55v71M981 236v71M855 181h71M1036 181h71M892 92l50 50M1020 220l50 50M1070 92l-50 50M942 220l-50 50" stroke="#89a8d5" stroke-opacity=".42" stroke-width="2"/>
+    <circle cx="981" cy="55" r="8" fill="#7cf4d2"/>
+    <circle cx="1107" cy="181" r="8" fill="#7db8ff"/>
+    <circle cx="981" cy="307" r="8" fill="#b897ff"/>
+    <circle cx="855" cy="181" r="8" fill="#7db8ff"/>
+    <circle cx="892" cy="92" r="5" fill="#b897ff"/>
+    <circle cx="1070" cy="92" r="5" fill="#7cf4d2"/>
+    <circle cx="1070" cy="270" r="5" fill="#b897ff"/>
+    <circle cx="892" cy="270" r="5" fill="#7cf4d2"/>
+    <text x="981" y="195" text-anchor="middle" fill="#f4f7ff" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="800" letter-spacing="-2">AI</text>
+    <text x="976" y="29" text-anchor="middle" fill="#91a7ca" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="2">NOIDA, INDIA</text>
+  </g>
+</svg>
